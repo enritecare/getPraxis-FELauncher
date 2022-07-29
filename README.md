@@ -1,3 +1,10 @@
+# This package has now been incorporated into the lumary-base package. This fork is no longer maintained, and was never modified from the original repo.
+## This repo has since been archived. -@mitchwd
+
+
+
+
+
 # Flow Event Launcher
 #### Launch flows from Enhanced Lightning Grid's row or list button, and have that flow open as a pop-up window overlay (modal).
 > Developed by @darrylingalls, Sr. Developer at [Praxis Solutions LLC](www.getpraxis.com)
